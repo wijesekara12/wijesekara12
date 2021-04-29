@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Malith Lakshan Wijesekara</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wijesekara12&label=Profile%20views&color=0e75b6&style=flat" alt="wijesekara12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wijesekara12" alt="wijesekara12" /></a> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/l_wijesekara12?label=Follow)](https://twitter.com/intent/follow?screen_name=l_wijesekara12)
+[![Linkedin: Malith Lakshan Wijesekara](https://img.shields.io/badge/-Malith_Lakshan_Wijesekara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Malith_Lakshan_Wijesekara-0b95b614a/)](https://www.linkedin.com/in/malith-lakshan-wijesekara-110b9a1ba/)
+![GitHub followers](https://img.shields.io/github/followers/wijesekara12?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/wijesekara12?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+
+
 
 - 🌱 I’m currently learning **everything :)**
 
