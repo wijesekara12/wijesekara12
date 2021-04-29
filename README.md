@@ -2,8 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/l_wijesekara12?label=Follow)](https://twitter.com/intent/follow?screen_name=l_wijesekara12)
 [![Linkedin: Malith Lakshan Wijesekara](https://img.shields.io/badge/-Malith_Lakshan_Wijesekara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Malith_Lakshan_Wijesekara-0b95b614a/)](https://www.linkedin.com/in/malith-lakshan-wijesekara-110b9a1ba/)
+[![Instagram: Malith Lakshan](https://img.shields.io/badge/-Malith_Lakshan-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/in/Malith_Lakshan_Wijesekara-0b95b614a/)](https://www.instagram.com/l.wijesekara/)
 ![GitHub followers](https://img.shields.io/github/followers/wijesekara12?label=Follow&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/wijesekara12?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wijesekara12&label=Profile%20views&color=0e75b6&style=flat" alt="wijesekara12" /> </p>
 
 
 
