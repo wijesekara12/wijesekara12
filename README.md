@@ -4,4 +4,4 @@
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- 📫 How to reach me **itsmalith99@gmail.com**
+- 📫 How to reach me **malithrsm@gmail.com**
