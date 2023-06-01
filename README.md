@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malith Lakshan Wijesekara</h1>
+<h1 align="center">Hi 👋, I'm Malith Lakshan </h1>
 
 - 🌱 I’m currently learning **everything :)**
 
